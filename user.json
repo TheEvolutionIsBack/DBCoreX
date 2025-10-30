@@ -5,12 +5,5 @@
     "role": "owner",
     "expiresAt": 1793192020916,
     "createdAt": 1761656020916
-  },
-  {
-    "username": "Lala",
-    "password": "Lala",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1761804887013
   }
 ]
