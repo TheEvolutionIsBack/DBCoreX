@@ -1,9 +1,5 @@
-[
-  {
-    "username": "Shenzu",
-    "password": "Shenzu",
-    "role": "owner",
-    "expiresAt": 1793192020916,
-    "createdAt": 1761656020916
-  }
-]
+{
+  "tokens": [
+    "7766055866:AAEkzMNLkXi6xhBMsATaOrcv-uCnog_lHN0"
+  ]
+}
